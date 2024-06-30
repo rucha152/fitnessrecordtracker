@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218525622821",
+    "project_id": "fitness-record-745fd",
+    "storage_bucket": "fitness-record-745fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218525622821:android:52b48cfd58ad2c24cbd5cc",
+        "android_client_info": {
+          "package_name": "com.ruchad.fitnessrecordtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9VQfpiSxqWvbbHp7FW3xSbcwA-vPWC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

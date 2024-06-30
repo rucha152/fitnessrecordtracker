@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FitnessRecordTracker</string>
+    <string name="running">Running</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cycling">Cycling</string>
+    <string name="cycling_image">Cycling Image</string>
+    <string name="_10km">10km</string>
+    <string name="half_marathon">Half Marathon</string>
+    <string name="marathon">Marathon</string>
+    <string name="_5km">5km</string>
+    <string name="longest_ride">Longest Ride</string>
+    <string name="biggest_climb">Biggest Climb</string>
+    <string name="text_view_running">Running</string>
+    <string name="title_activity_edit_cycling_recc">EditCyclingRecc</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="average_speed">Average Speed</string>
+    <string name="reset_running_record">Reset Running record</string>
+    <string name="reset_all_records">Reset all records</string>
+    <string name="rest_cycling_record">Rest Cycling Record</string>
+    <string name="record">Record</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="confused_oonga_boonga">Confused oonga boonga</string>
+    <string name="oonga_boonga">Oonga Boonga</string>
+
+</resources>
